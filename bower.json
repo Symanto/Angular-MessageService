@@ -1,0 +1,24 @@
+{
+  "name": "symanto-angular-messageservice",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Symanto/Angular-MessageService",
+  "authors": [
+    "Robin-Manuel Thiel <robin-manuel.thiel@symanto.net>"
+  ],
+  "main": "MessageService.js",
+  "keywords": [
+    "angular",
+    "symanto"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"remarkable-bootstrap-notify": "~3.1.3"
+  }
+}
