@@ -5,7 +5,7 @@ The easiest way to install the MessageService is by including the bower package 
 ```shell
 bower install symanto-angular-messageservice --save
 ```
-Afterwards you just need to add the module and the required [bootstrap-notify][1] module to your HTML file
+Afterwards you just need to add the module and the required [bootstrap-notify][1] module to your HTML file. If you use bower you do not need to download it seperately, bower does that for you.
 ```html
 <script src="bower_components/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js"></script>
 <script src="bower_components/symanto-angular-messageservice/MessageService.js"></script>
